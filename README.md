@@ -4,6 +4,15 @@ A modern and responsive **Currency Converter** web application built using **Rea
 
 ---
 
+## 🚀 Live Demo
+
+✨ View the live project here:  
+👉 **https://currencyconverter1234567.netlify.app/**
+
+---
+
+---
+
 ## 🚀 Features
 
 - 🌍 Convert between multiple international currencies  
